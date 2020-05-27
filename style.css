@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background:url(images/daunjatuh.jpg) repeat;
+}
+
+#clear{
+	clear:both;	
+}
+
+
+#wrapper{
+	width:1024px;
+	height:auto;
+	margin-left:auto;
+	margin-right:auto;	
+	font-family:"Calibri";
+	border:solid 1px;
+	background:#FFFFFF;
+}
+
+#header{
+	width:1024px;
+	height:226px;
+	background:url(images/Duplicate-State_09.gif);
+}
+
+#footer{
+	text-align:center;
+}
+
+#bgmenu{
+	background:#ff6d01;	
+	height:50px;
+}
+
+#menu{
+	color:#FFF;
+	background:#529d08;
+	font-size:15px;
+	padding:3px;
+	width:100px;
+	float:left;
+	margin-left:10px;
+	margin-bottom:0px;
+	border:solid 1px;
+	text-align:center;
+	color:#FFFFFF;
+}
+
+#menu a{
+	 color:#FFFFFF;
+	 text-decoration:none;
+}
+
+
+#isi{
+	width:1024px;
+	height:auto;
+}
+
+#left{
+	border:solid 1px #CCC;
+	float:left;
+	height:auto;
+	margin:10px;
+	padding:3px;
+	width:631px;
+}
+
+#right{
+	border:solid 1px #CCC;
+	float:right;
+	margin:10px;
+	min-height:700px;
+	padding:3px;
+	width:335px;
+	height:auto
+}
+
